@@ -1,2 +1,2 @@
 # Exercicios_JavaScript
- Exercícios de JavaScript
+Curso de JavaScript | Dev Aprender
